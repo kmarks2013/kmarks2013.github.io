@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Kenny Marks
 
-You can use the [editor on GitHub](https://github.com/kmarks2013/kmarks2013.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
+Full-stack web developer experienced in Ruby on Rails, JavaScript, React, and Redux. Discovered a love of programming while completing graduate school studies in International Cybersecurity at New York University. Seeking to build exciting yet secure applications for both consumers and businesses use.
 
 ### Markdown
 
