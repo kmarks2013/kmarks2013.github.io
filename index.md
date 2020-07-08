@@ -1,7 +1,15 @@
-## Kenny Marks
+# Kenny Marks
 
-### About Me
-Full-stack web developer experienced in Ruby on Rails, JavaScript, React, and Redux. Discovered a love of programming while completing graduate school studies in International Cybersecurity at New York University. Seeking to build exciting yet secure applications for both consumers and businesses use.
+## About Me
+### Bio
+New York based full-stack web developer experienced in Ruby on Rails, JavaScript, React, and Redux. Discovered a love of programming while completing graduate school studies in International Cybersecurity at New York University. Seeking to build exciting yet secure applications for both consumers and businesses use.
+
+
+## Contact
+
+[Email Me!](mailto:kmarks2013@gmail.com?subject=[GitHub]%20Source%20Kenny%20Marks)
+
+
 
 ### Markdown
 
